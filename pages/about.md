@@ -8,20 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
+{% include feature/image.html objectid="coll001" width="50" %}
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The database is maintained by David Jenkins, Librarian for Classics, Hellenic Studies and Linguistics at Princeton University. All of the data in the database can be downloaded as a .csv or .xls file by clicking on the appropriate button at the bottom of the page.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+For a comprehensive bibliography, see Stratis Papaioannou's Greek Paleography and Byzantine Book Culture: A Bibliographical Essay (Version 3).
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Graphs of basic distributions of manuscript type (Nov. 2021).
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+The database is licensed under a Creative Commons Attribution ShareAlike 4.0 International License (CC BY-SA 4.0).
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
