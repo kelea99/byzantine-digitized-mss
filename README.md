@@ -1,4 +1,4 @@
-# Byzantine Digitized Manuscripts
+# Byzantine Digitized Manuscripts KEL
 
 The database is maintained by David Jenkins, Librarian for Classics, Hellenic Studies and Linguistics at Princeton University. All of the data in the database can be downloaded as a .csv or .xls file by clicking on the appropriate button at the bottom of the page.
 
